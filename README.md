@@ -1,4 +1,4 @@
-Hosted at: https://keithrieck.github.io/phaser_sokoban/dist/index.html
+Hosted at: https://keithrieck.github.io/sokoban/dist/index.html
 
 # Sokoban
 
